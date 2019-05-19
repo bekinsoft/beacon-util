@@ -1,4 +1,4 @@
-package xutils
+package util
 
 import (
 	"regexp"

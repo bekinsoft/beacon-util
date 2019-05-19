@@ -1,4 +1,4 @@
-package xutils
+package util
 
 // Package bytefmt contains helper methods and constants for converting to and from a human-readable byte format.
 //

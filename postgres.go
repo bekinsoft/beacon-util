@@ -3,7 +3,7 @@
  * @email     bekinsoft@gmail.com
  */
 
-package xutils
+package util
 
 import (
 	"fmt"
