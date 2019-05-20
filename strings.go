@@ -108,3 +108,13 @@ func ToTitleCase(input string) string {
 	}
 	return strings.Join(words, " ")
 }
+
+// StringContainsList checks whether a slice of string is found for a specified string
+func StringContainsList(s []string, e string) bool {
+	for _, a := range s {
+		if a == e {
+			return true
+		}
+	}
+	return false
+}
